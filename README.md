@@ -7,7 +7,7 @@ This starter is based on the **RGB Mixing mission** in the supplied Pixel Quest 
 - Godot **4.x**, standard editor (no C#/.NET required).
 - No plugins, external packages, API keys, or internet connection required after installation.
 
-## Open and ru
+## Open and run
 
 1. Unzip the archive.
 2. Open **Godot Project Manager** and select **Import**.
